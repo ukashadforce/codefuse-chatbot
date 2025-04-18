@@ -62,6 +62,8 @@ body:
   - type: dropdown
     attributes:
       label: Code Version
+ Relevant links to check before filing a bug report to see if your issue has already been reported, fixed or
+        if there's another way to solve your problem fix:
       description: |
         Please select which version of Codefuse-Repos you were using when this issue occurred.
         **If you weren't please try with the **.
